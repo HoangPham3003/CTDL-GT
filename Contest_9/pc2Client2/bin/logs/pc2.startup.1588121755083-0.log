@@ -1,0 +1,11 @@
+200429 075555.142|CONFIG|main|setFileHandlers|Now logging to D:\Ki2_Nam2\CTDLGT\Contest_3\pc2Client2\bin\logs directory.
+200429 075555.143|INFO|main|info|
+200429 075555.145|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_251 build 5102 Windows 10 10.0 (amd64) 
+200429 075555.146|INFO|main|startLog|Working directory is D:\Ki2_Nam2\CTDLGT\Contest_3\pc2Client2\bin
+200429 075555.158|INFO|main|startLog|Process id is 1388@DESKTOP-P92CARS
+200429 075555.158|INFO|main|start|Starting ConnectionManager...
+200429 075555.475|INFO|main|start|Started ConnectionManager
+200429 075555.476|INFO|main|setClientServerAndPort|INIFile File location: file:/D:/Ki2_Nam2/CTDLGT/Contest_3/pc2Client2/bin/pc2v9.ini
+200429 075555.477|INFO|main|setClientServerAndPort|setClientServerAndPort 203.162.10.117 parsed as 203.162.10.117 port 50002
+200429 075555.478|INFO|main|info|Contacting server at 203.162.10.117:50002
+200429 075555.478|INFO|main|connectToMyServer|Connecting to 203.162.10.117:50002

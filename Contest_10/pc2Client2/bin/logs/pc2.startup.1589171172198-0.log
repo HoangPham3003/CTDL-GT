@@ -1,0 +1,30 @@
+200511 112612.256|CONFIG|main|setFileHandlers|Now logging to D:\Ki2_Nam2\CTDLGT\Contest_5\pc2Client2\bin\logs directory.
+200511 112612.257|INFO|main|info|
+200511 112612.260|INFO|main|info|Version 9.6.0 20190102 (Wednesday, January 2nd 2019 01:20 UTC) Java ver 1.8.0_251 build 5102 Windows 10 10.0 (amd64) 
+200511 112612.261|INFO|main|startLog|Working directory is D:\Ki2_Nam2\CTDLGT\Contest_5\pc2Client2\bin
+200511 112612.272|INFO|main|startLog|Process id is 30996@DESKTOP-P92CARS
+200511 112612.273|INFO|main|start|Starting ConnectionManager...
+200511 112612.599|INFO|main|start|Started ConnectionManager
+200511 112612.600|INFO|main|setClientServerAndPort|INIFile File location: file:/D:/Ki2_Nam2/CTDLGT/Contest_5/pc2Client2/bin/pc2v9.ini
+200511 112612.601|INFO|main|setClientServerAndPort|setClientServerAndPort 203.162.10.117 parsed as 203.162.10.117 port 50002
+200511 112612.601|INFO|main|info|Contacting server at 203.162.10.117:50002
+200511 112612.601|INFO|main|connectToMyServer|Connecting to 203.162.10.117:50002
+200511 112612.749|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=/203.162.10.117,port=50002,localport=64800]--463077261574663087)
+200511 112613.078|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted Made a secret key for Socket[addr=/203.162.10.117,port=50002,localport=64800]--463077261574663087 key is com.sun.crypto.provider.DESKey@fffe7a99
+200511 112613.079|INFO|Thread-1|getPublicKeyPacket|Generating Unencrypted Public Key Packet
+200511 112613.080|INFO|Thread-1|getPublicKeyPacket|checking key:= SunJCE Diffie-Hellman Public Key:
+y:
+    ef26c712 c2ebf6df c6c93ff5 421c0648 523fe49d c2938277 e89bc5f6 f3a41c39
+    e44509aa cb9f61e3 ec637c4d cbb475bb 28101ea3 5d8d161a 04469c71 46a691be
+    5398af4f a8f6a00e 3e02d7de fdc684c7 74579232 6dab88c6 f8f7fc1f 80539c59
+    bff9462f ab878b00 d9386a72 223a34af 7816cb3f f71f984d f1be435e a2ac8f96
+p:
+    f488fd58 4e49dbcd 20b49de4 9107366b 336c380d 451d0f7c 88b31c7c 5b2d8ef6
+    f3c923c0 43f0a55b 188d8ebb 558cb85d 38d334fd 7c175743 a31d186c de33212c
+    b52aff3c e1b12940 18118d7c 84a70a72 d686c403 19c80729 7aca950c d9969fab
+    d00a509b 0246d308 3d66a45d 419f9c7c bd894b22 1926baab a25ec355 e92f78c7
+g:
+    02
+l:
+    512
+200511 112613.080|INFO|Thread-1|getPublicKeyPacket|packet:= edu.csus.ecs.pc2.core.transport.TransportWrapper@3b146564
